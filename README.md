@@ -34,3 +34,8 @@ source venv/Scripts/activate # winows
 
 ```bash
 pip install ultralytics torch torchvision torchaudio pyyaml opencv-python
+```
+
+Веса https://disk.yandex.ru/d/bq4CKEIg1B-meA
+train/box_loss,train/cls_loss,train/dfl_loss,metrics/precision(B),metrics/recall(B),metrics/mAP50(B),metrics/mAP50-95(B),val/box_loss,val/cls_loss,val/dfl_loss,lr/pg0,lr/pg1,lr/pg2
+0.67989,0.51325,1.09172,0.92014,0.82013,0.91292,0.73848,0.74984,0.57021,1.13648,0.0015842,0.0015842,0.0015842
