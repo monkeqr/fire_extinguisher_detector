@@ -1,0 +1,8 @@
+FireExtinguisher.v2i.yolov11/
+venv/
+runs/
+
+*.pt
+*.png
+
+*.mp4
